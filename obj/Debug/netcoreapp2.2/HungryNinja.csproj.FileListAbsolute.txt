@@ -1,0 +1,11 @@
+/Users/mjm/Documents/dev/csharp/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.deps.json
+/Users/mjm/Documents/dev/csharp/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.runtimeconfig.json
+/Users/mjm/Documents/dev/csharp/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.runtimeconfig.dev.json
+/Users/mjm/Documents/dev/csharp/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.dll
+/Users/mjm/Documents/dev/csharp/HungryNinja/bin/Debug/netcoreapp2.2/HungryNinja.pdb
+/Users/mjm/Documents/dev/csharp/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csprojAssemblyReference.cache
+/Users/mjm/Documents/dev/csharp/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/mjm/Documents/dev/csharp/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfoInputs.cache
+/Users/mjm/Documents/dev/csharp/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.AssemblyInfo.cs
+/Users/mjm/Documents/dev/csharp/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.dll
+/Users/mjm/Documents/dev/csharp/HungryNinja/obj/Debug/netcoreapp2.2/HungryNinja.pdb
